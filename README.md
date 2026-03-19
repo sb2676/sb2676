@@ -1,7 +1,7 @@
 # Hi, I'm Sophia Bebko💮
 
 I'm a Web and Mobile Computing student at RIT Croatia, 
-little portfolio im building, slowly but surely: 
+little portfolio i'm building, slowly but surely: 
 
 ---
 
@@ -26,7 +26,7 @@ viewport system near world borders.
 A puzzle game where players fill a 6x6 grid with seven uniquely 
 shaped pieces. I led all core game logic including piece placement, 
 rotation, flipping, and randomized board configurations.
-I was in created the block behavior, while my collegue was in charge of the UI.
+I was in created the block behavior, while my colleague was in charge of the UI.
 [BlockPuzzle](https://github.com/RITCroatia-WMCZagreb/gcis123-2241-unit11-puzzlegame-sophia-luka-and-anja)
 
 ### Sugar Cup Shop — JavaScript, MVC, Local Storage
@@ -35,9 +35,9 @@ product selection flow, real-time customization preview,
 client-side form validation, and Local Storage persistence.
 [SugarCupShop](https://github.com/sb2676/OnlineCupcakeShop)
 
-### Simple Website about PIKMIN Lore — 
-This is a small but fun website i made talking about the lore
-behind Pikmin 1, 2 and 3. 
+### Simple Website about PIKMIN Lore — HTML,CSS,JavaScript, HTML5 Audio
+A fun fan project exploring the lore behind Pikmin 1, 2 and 3, featuring 
+interactive characters that play audio clips when clicked using JavaScript event listeners.
 [PikminLore](https://github.com/sb2676/PikminLoreWebsite)
 
 ### Database Application — Java, MySQL, JDBC - Currently working on
