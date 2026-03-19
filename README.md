@@ -20,7 +20,7 @@ little portfolio im building, slowly but surely:
 A blob-eating game featuring a real-time game loop, 
 collision detection, player growth logic, bot AI, and a dynamic 
 viewport system near world borders.
-[Agario-Tiger]([https://www.example.com](https://github.com/RITCroatia-WMCZagreb/gcis123-2245-project-tigerwars-sophia-bruna))
+[Agario-Tiger]([https://www.example.com](https://github.com/RITCroatia-WMCZagreb/gcis123-2245-project-tigerwars-sophia-bruna)
 
 ### Block Puzzle Game — Python
 A puzzle game where players fill a 6x6 grid with seven uniquely 
